@@ -1,6 +1,7 @@
 from selene import be, have
 from selene.support.shared import browser
 
+
 class RegistrationPage():
  
     def __init__(self):
