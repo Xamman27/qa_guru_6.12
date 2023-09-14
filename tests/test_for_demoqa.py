@@ -1,6 +1,6 @@
-from utils import image_path
-from utils import RegistrationPage
-from utils import RegistrationDonePage
+from tests.demo_qa_tests.data.path import image_path
+from tests.demo_qa_tests.data.registration_page import RegistrationPage
+from tests.demo_qa_tests.data.registration_done_page import RegistrationDonePage
 import allure
 
 
